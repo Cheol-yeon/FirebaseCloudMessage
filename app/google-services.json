@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327797813706",
+    "project_id": "fir-cloudmessage-8ac82",
+    "storage_bucket": "fir-cloudmessage-8ac82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327797813706:android:21fdb204edbc848a8fdf33",
+        "android_client_info": {
+          "package_name": "com.babsari.firebasecloudmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327797813706-f0bnjq8n9m7d1ior0dtv9ls9i2o3ggqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTq0qRidS7VspJD1T7kTfCMSZgh-CRjcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327797813706-f0bnjq8n9m7d1ior0dtv9ls9i2o3ggqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
